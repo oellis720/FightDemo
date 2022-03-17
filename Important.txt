@@ -1,0 +1,16 @@
+Hi!
+
+Thank you for viewing my Unreal Engine 4 project!
+ 
+This was done in approximately 2 weeks in the month of March 2022 as both a challenge and a learning experiment in preparation of job prospects. I've had prior Unreal experience with Material and Lighitng work, but not so much gameplay so I've studied and prepared for about a year before to re-learn the ins and outs of Blueprints and how C++ is tied in as well. This was a great learning experience for myself and I'm excited to learn more as I enter the work force!
+
+
+				---------------
+				---IMPORTANT---
+				---------------
+
+If you've played the demo, you may have wondered why the collisions only seem to work some of the time. Unfortunately, this is an engine side bug that's fairly common upon research and with my comparatively limited knowledge of the back-end engine work, I could not find a solution to this problem. However, the PIE version of the game works as intended! So feel free to play in there as well as review the blueprint/code work.
+
+
+Thank you again for your viewing!
+--Ocea' Ellis
